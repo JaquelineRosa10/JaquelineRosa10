@@ -1,5 +1,5 @@
 <!-- Banner animado ou frase de destaque -->
-<h1 align="center">👋 Olá, eu sou a Jaqueline Rosa!</h1>
+<h1 align="center">👋 Olá, eu sou Jaqueline Rosa!</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="oi" />
